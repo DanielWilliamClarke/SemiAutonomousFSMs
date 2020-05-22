@@ -5,7 +5,7 @@
 ### Stored here for posterity
 
 Written in C++,
-Generates semi autonomous finite state machines based on a complex regex input
+Generates semi autonomous finite state machines based on a complex regex input.
 This software is meant to interface with an OPCServer and provide control commands from the FSM based on the input from it.
 See something like KepServerEx5
 
